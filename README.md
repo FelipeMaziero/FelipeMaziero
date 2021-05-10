@@ -23,7 +23,7 @@ e ter a primeira oportunidade de trabalho nesta área e <strong>contribuir</stro
 </p>
 
 <p align="center">
-  🚀  Estudando: <strong>JavaScript e React.</strong>
+  🚀  Estudando: <strong>JavaScript.</strong>
 </p>
 
 <p align="center">
