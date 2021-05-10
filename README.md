@@ -50,9 +50,4 @@ e ter a primeira oportunidade de trabalho nesta área e <strong>contribuir</stro
 
 </p>
 
-## ⭐ GitHub Stats
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=FelipeMaziero&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMaziero&hide=css,java,html&theme=tokyonight">
-</p>
