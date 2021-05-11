@@ -13,8 +13,8 @@
 
 <br>
 <p>
-  Sou <strong>Desenvolvedor Frond-end</strong> e <strong>Estudante de Programação</strong>.<br />
-<strong>Tenho um grande sonho</strong> de tornar-me um <strong>Programador</strong> e ter a primeira oportunidade de trabalho nesta área e <strong>contribuir</strong> para que possa <strong>evoluir profissionalmente e ajudar da melhor forma</strong>.
+ <strong>Desenvolvedor Frond-end</strong> e <strong>Estudante de Programação</strong>.<br />
+<strong>Tenho um grande sonho</strong> de tornar-me um <strong>Programador profissional</strong> e ter a primeira oportunidade de trabalho nesta área.
 </p>
 
 <p align="center">
